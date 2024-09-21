@@ -1,4 +1,4 @@
-# 🥰 Auto-Reaction-Tg-Bot [![License: MIT][License-Badge]](LICENSE)
+🥰 Auto-Reaction-Tg-Bot [![License: MIT][License-Badge]](LICENSE)
 
 # Don't forget to like the repo 🥰
 <!-- RAINBOW LINE TOP -->
