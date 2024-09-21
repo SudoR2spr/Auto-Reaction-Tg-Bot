@@ -1,6 +1,6 @@
 🥰 Auto-Reaction-Tg-Bot [![License: MIT][License-Badge]](LICENSE)
 
-# Don't forget to like the repo 🥰
+# Don't forget to star ⭐ the repo 🥰
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
