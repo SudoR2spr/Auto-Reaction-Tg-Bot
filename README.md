@@ -16,7 +16,7 @@
 
 ## 🚀 Deploy with `back4app`, `Render`, `Koyeb`, `Heroku`.
 
-## ## Deploy Tutorial
+## Deploy Tutorial
 
 - <b>Watch Video Tutorial - [Click Here](https://youtube.com/@woodcraft5/videos)</b>
 
@@ -24,14 +24,16 @@
 
 To Ensure That Your Telegram Environment variables `.env`
 
-- `BOT_TOKEN`: This is your bot's token, which you can generate from [BotFather](https://t.me/BotFather). This token allows your bot to authenticate and interact with the Telegram API.
+- `BOT_TOKEN`: This is your bot's token, which you can generate from [BotFather](https://t.me/BotFather).
 - `WEBHOOK_URL`: This is your `https://your_server_url.com`
 - `PORT`: The PORT you have set. This is used `3000`.
 
 
+
+
 <p align="center">
-  <a href="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Changes-and-Save.png" target="_blank">
-    <img alt="Auto-Reaction-Tg-Bot" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Changes-and-Save.png">
+  <a href="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Auto-reaction.jpg" target="_blank">
+    <img alt="Auto-Reaction-Tg-Bot" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Auto-reaction.jpg">
   </a>
 </p>
 
