@@ -33,7 +33,7 @@ To Ensure That Your Telegram Environment variables `.env`
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Auto-reaction.jpg" target="_blank">
-    <img alt="Auto-Reaction-Tg-Bot" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Auto-reaction.jpg">
+    <img alt="Auto-Reaction-Tg-Bot" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Auto-reaction.jpg" width="80%">
   </a>
 </p>
 
