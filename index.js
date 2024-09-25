@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT || 3000; 
 const BOT_TOKEN = process.env.BOT_TOKEN; 
 
-const emojis = ['😂', '👍', '❤️', '🔥', '👏', '🎉', '😎', '👀', '💯']; 
+const emojis = ['😂', '👍', '❤️', '🔥', '👏', '🎉', '😎', '🥰', '❤️‍🔥', '⚡️', '🦋', '💃', '🕺', '💥', '✨', '⭐️', '💋', '👀', '💯']; 
 app.use(express.json()); 
 
 app.get('/', (req, res) => { 
